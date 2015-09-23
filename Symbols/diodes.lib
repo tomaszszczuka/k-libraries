@@ -1,0 +1,195 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# ASMB-MTB1-0A3A2
+#
+DEF ~ASMB-MTB1-0A3A2 D 0 0 N N 1 F N
+F0 "D" 100 50 50 V V L CNN
+F1 "ASMB-MTB1-0A3A2" 0 0 50 V I C CNN
+F2 "0C_smc:SM_D_LED_PLCC4_01" 0 -50 30 V I C CNN
+F3 "" 80 0 30 V V C CNN
+F4 "RGB LED" 100 -50 50 V V R CNN "AValue"
+F5 "-" 200 50 50 V I L CNN "Build"
+F6 "PLCC4" 200 -50 50 V I R CNN "Package"
+F7 "AVAGO" 0 0 50 V I C CNN "Manufacturer"
+F8 "ASMB-MTB1-0A3A2" 0 0 50 V I C CNN "Man Part No"
+F9 "20mA" 0 0 50 V I C CNN "Current"
+F10 "-" 0 0 60 V I C CNN "Voltage"
+DRAW
+T 0 0 -25 35 0 0 0 B  Normal 0 C C
+T 0 -150 -25 35 0 0 0 G  Normal 0 C C
+T 0 -300 -25 35 0 0 0 R  Normal 0 C C
+P 2 0 1 0  -350 50  -250 50 N
+P 2 0 1 0  -200 50  -100 50 N
+P 2 0 1 0  -50 50  50 50 N
+P 4 0 1 0  -300 -50  -300 -100  0 -100  0 -50 N
+P 4 0 1 0  -300 50  -350 -50  -250 -50  -300 50 N
+P 4 0 1 0  -150 50  -200 -50  -100 -50  -150 50 N
+P 4 0 1 0  0 50  -50 -50  50 -50  0 50 N
+P 5 0 1 0  -345 5  -375 5  -365 10  -365 0  -375 5 N
+P 5 0 1 0  -335 30  -365 30  -355 35  -355 25  -365 30 N
+P 5 0 1 0  -195 5  -225 5  -215 10  -215 0  -225 5 N
+P 5 0 1 0  -185 30  -215 30  -205 35  -205 25  -215 30 N
+P 5 0 1 0  -45 5  -75 5  -65 10  -65 0  -75 5 N
+P 5 0 1 0  -35 30  -65 30  -55 35  -55 25  -65 30 N
+X CR 1 -300 150 100 D 60 60 1 1 P
+X CG 2 -150 150 100 D 60 60 1 1 P
+X CB 3 0 150 100 D 60 60 1 1 P
+X ~ 4 -150 -150 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# BZG03C15TR
+#
+DEF ~BZG03C15TR D 0 0 N Y 1 F N
+F0 "D" 100 50 50 V V L CNN
+F1 "BZG03C15TR" 0 0 50 V I C CNN
+F2 "0C_smc:SM_D_DO214AC_H2.3_01" 0 -50 30 V I C CNN
+F3 "" 80 0 30 V V C CNN
+F4 "15V" 100 -100 50 V V R CNN "AValue"
+F5 "-" 200 50 50 V I L CNN "Build"
+F6 "SMA" 200 -100 50 V I R CNN "Package"
+F7 "Vishay" 0 50 50 V I C CNN "Manufacturer"
+F8 "BZG03C15TR" 0 0 50 V I C CNN "Man Part No"
+F9 "3W" 0 0 50 V I C CNN "Power"
+F10 "15V" 0 0 60 V I C CNN "Voltage"
+F11 "Zener" 0 0 50 V I C CNN "Type"
+DRAW
+P 2 0 1 0  -35 50  -50 65 N
+P 2 0 1 0  -35 50  35 50 N
+P 2 0 1 0  35 50  50 35 N
+P 4 0 1 0  0 50  -50 -50  50 -50  0 50 N
+X ~ 1 0 150 100 D 60 60 1 1 P
+X ~ 2 0 -150 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# GDL
+#
+DEF ~GDL D 0 0 N N 1 F N
+F0 "D" 100 50 50 V V L CNN
+F1 "GDL" 0 0 50 V I C CNN
+F2 "" 0 0 30 V I C CNN
+F3 "" 80 0 30 V V C CNN
+F4 "AValue" 100 -50 50 V V R CNN "AValue"
+F5 "-" 200 50 50 V I L CNN "Build"
+F6 "Package" 200 -50 50 V I R CNN "Package"
+F7 "Manufacturer" 0 0 50 V I C CNN "Manufacturer"
+F8 "MPN" 0 0 50 V I C CNN "Man Part No"
+F9 "Current" 0 0 50 V I C CNN "Current"
+F10 "Voltage" 0 0 60 V I C CNN "Voltage"
+DRAW
+T 0 0 -25 35 0 0 0 B  Normal 0 C C
+T 0 -150 -25 35 0 0 0 G  Normal 0 C C
+T 0 -300 -25 35 0 0 0 R  Normal 0 C C
+P 2 0 1 0  -350 50  -250 50 N
+P 2 0 1 0  -200 50  -100 50 N
+P 2 0 1 0  -50 50  50 50 N
+P 4 0 1 0  -300 -50  -300 -100  0 -100  0 -50 N
+P 4 0 1 0  -300 50  -350 -50  -250 -50  -300 50 N
+P 4 0 1 0  -150 50  -200 -50  -100 -50  -150 50 N
+P 4 0 1 0  0 50  -50 -50  50 -50  0 50 N
+P 5 0 1 0  -345 5  -375 5  -365 10  -365 0  -375 5 N
+P 5 0 1 0  -335 30  -365 30  -355 35  -355 25  -365 30 N
+P 5 0 1 0  -195 5  -225 5  -215 10  -215 0  -225 5 N
+P 5 0 1 0  -185 30  -215 30  -205 35  -205 25  -215 30 N
+P 5 0 1 0  -45 5  -75 5  -65 10  -65 0  -75 5 N
+P 5 0 1 0  -35 30  -65 30  -55 35  -55 25  -65 30 N
+X CR 1 -300 150 100 D 60 60 1 1 P
+X CG 2 -150 150 100 D 60 60 1 1 P
+X CB 3 0 150 100 D 60 60 1 1 P
+X ~ 4 -150 -150 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# GDR
+#
+DEF ~GDR D 0 0 N Y 1 F N
+F0 "D" 100 50 50 V V L CNN
+F1 "GDR" 0 0 50 V I C CNN
+F2 "" 0 0 30 V I C CNN
+F3 "" 80 0 30 V V C CNN
+F4 "AValue" 100 -50 50 V V R CNN "AValue"
+F5 "-" 200 50 50 V I L CNN "Build"
+F6 "Package" 200 -50 50 V I R CNN "Package"
+F7 "Manufacturer" 0 0 50 V I C CNN "Manufacturer"
+F8 "MPN" 0 0 50 V I C CNN "Man Part No"
+F9 "Current" 0 0 50 V I C CNN "Current"
+F10 "Voltage" 0 0 60 V I C CNN "Voltage"
+DRAW
+P 2 0 1 0  -50 50  50 50 N
+P 4 0 1 0  0 50  -50 -50  50 -50  0 50 N
+X ~ 1 0 150 100 D 60 60 1 1 P
+X ~ 2 0 -150 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# GDS
+#
+DEF ~GDS D 0 0 N Y 1 F N
+F0 "D" 100 50 50 V V L CNN
+F1 "GDS" 0 0 50 V I C CNN
+F2 "" 0 0 30 V I C CNN
+F3 "" 80 0 30 V V C CNN
+F4 "AValue" 100 -50 50 V V R CNN "AValue"
+F5 "-" 200 50 50 V I L CNN "Build"
+F6 "Package" 200 -50 50 V I R CNN "Package"
+F7 "Manufacturer" 0 0 50 V I C CNN "Manufacturer"
+F8 "MPN" 0 0 50 V I C CNN "Man Part No"
+F9 "Current" 0 0 50 V I C CNN "Current"
+F10 "Voltage" 0 0 60 V I C CNN "Voltage"
+DRAW
+P 2 0 1 0  -50 50  50 50 N
+P 3 0 1 0  -50 50  -50 65  -35 65 N
+P 3 0 1 0  50 50  50 35  35 35 N
+P 4 0 1 0  0 50  -50 -50  50 -50  0 50 N
+X ~ 1 0 150 100 D 60 60 1 1 P
+X ~ 2 0 -150 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# GDZ
+#
+DEF ~GDZ D 0 0 N Y 1 F N
+F0 "D" 100 50 50 V V L CNN
+F1 "GDZ" 0 0 50 V I C CNN
+F2 "" 0 -50 30 V I C CNN
+F3 "" 80 0 30 V V C CNN
+F4 "AValue" 100 -50 50 V V R CNN "AValue"
+F5 "-" 200 50 50 V I L CNN "Build"
+F6 "Package" 200 -50 50 V I R CNN "Package"
+F7 "Manufacturer" 0 0 50 V I C CNN "Manufacturer"
+F8 "MPN" 0 0 50 V I C CNN "Man Part No"
+F9 "Current" 0 0 50 V I C CNN "Current"
+F10 "Voltage" 0 0 60 V I C CNN "Voltage"
+DRAW
+P 2 0 1 0  -35 50  -50 65 N
+P 2 0 1 0  -35 50  35 50 N
+P 2 0 1 0  35 50  50 35 N
+P 4 0 1 0  0 50  -50 -50  50 -50  0 50 N
+X ~ 1 0 150 100 D 60 60 1 1 P
+X ~ 2 0 -150 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# RS1G-E3/61T
+#
+DEF ~RS1G-E3/61T D 0 0 N Y 1 F N
+F0 "D" 100 50 50 V V L CNN
+F1 "RS1G-E3/61T" 0 0 50 V I C CNN
+F2 "0C_smc:SM_D_DO214AC_H2.3_01" 0 -50 30 V I C CNN
+F3 "" 80 0 30 V V C CNN
+F4 "RS1G-E3/61T" 100 -100 50 V V R CNN "AValue"
+F5 "-" 200 50 50 V I L CNN "Build"
+F6 "SMA" 200 -100 50 V I R CNN "Package"
+F7 "Vishay" 0 50 50 V I C CNN "Manufacturer"
+F8 "RS1G-E3/61T" 0 0 50 V I C CNN "Man Part No"
+DRAW
+S 50 50 -50 50 0 1 0 N
+P 4 0 1 0  0 50  -50 -50  50 -50  0 50 N
+X ~ 1 0 150 100 D 60 60 1 1 P
+X ~ 2 0 -150 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BT139-600E
+D 16A 600V Power Triac TO-220
+$ENDCMP
+#
+$CMP MOC3023SM
+D 6 Pin Optoisolator Triac
+F /home/tom/kicad/Library/Documentation/V/VTX-214-003-105.pdf
+$ENDCMP
+#
+#End Doc Library

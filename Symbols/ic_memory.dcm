@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 23K256-I/SN
+D 256K SPI Bus Low-Power Serial SRAM
+$ENDCMP
+#
+$CMP S25FL204K0TMFI041
+D 4-Mbit 3.0V Serial Flash Memory with Uniform 4 kB Sectors
+$ENDCMP
+#
+#End Doc Library

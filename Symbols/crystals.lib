@@ -1,0 +1,54 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# GC_003x01_PIN
+#
+DEF ~GC_003x01_PIN CN 0 25 Y N 1 F N
+F0 "CN" 0 100 50 H V C CNN
+F1 "GC_003x01_PIN" 0 -400 50 H I C CNN
+F2 "" 0 -400 30 H I C CNN
+F3 "" 0 -400 30 H I C CNN
+F4 "003x01" 0 -300 50 H V C CNN "AValue"
+F5 "-" 0 -400 50 H I C CNN "Build"
+F6 "-" 0 -400 50 H I C CNN "Package"
+F7 "-" 0 -400 50 H I C CNN "Manufacturer"
+F8 "-" 0 -400 50 H I C CNN "Man Part No"
+$FPLIST
+ 3-way
+$ENDFPLIST
+DRAW
+S -50 -250 50 50 0 1 0 N
+X 1 1 -250 0 200 R 50 50 1 1 U
+X 2 2 -250 -100 200 R 50 50 1 1 U
+X 3 3 -250 -200 200 R 50 50 1 1 U
+ENDDRAW
+ENDDEF
+#
+# GX_01
+#
+DEF ~GX_01 CN 0 25 N N 1 F N
+F0 "CN" 150 50 50 H V L CNN
+F1 "GX_01" 150 -150 50 H I L CNN
+F2 "" 150 -150 30 H I L CNN
+F3 "" 150 -150 30 H I L CNN
+F4 "8 MHz" 150 -50 50 H V L CNN "AValue"
+F5 "-" 150 -150 50 H I L CNN "Build"
+F6 "-" 150 -150 50 H I L CNN "Package"
+F7 "-" 150 -150 50 H I L CNN "Manufacturer"
+F8 "-" 150 -150 50 H I L CNN "Man Part No"
+F9 "-" 150 -150 50 H I L CNN "Freq"
+F10 "-" 150 -150 50 H I L CNN "Load"
+F11 "-" 175 -150 50 H I L CNN "ESR"
+$FPLIST
+ crystal
+$ENDFPLIST
+DRAW
+S -75 -30 75 30 0 1 0 N
+P 2 0 1 0  -100 50  100 50 N
+P 2 0 1 0  100 -50  -100 -50 N
+X 1 1 0 150 100 D 50 50 1 1 P
+X 2 2 0 -150 100 U 50 50 1 1 U
+ENDDRAW
+ENDDEF
+#
+#End Library

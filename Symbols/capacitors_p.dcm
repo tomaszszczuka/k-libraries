@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100u_25V_6.3D_01
+D 47uF 20V tantalum 7343 polarised capacitor
+K Capacitor
+$ENDCMP
+#
+$CMP 47u_20V_6032_TAN_01
+D 47uF 20V tantalum 7343 polarised capacitor
+K Capacitor
+$ENDCMP
+#
+$CMP 47u_20V_7343_TAN_01
+D 47uF 20V tantalum 7343 polarised capacitor
+K Capacitor
+$ENDCMP
+#
+$CMP GPC_0402
+D Generic Polarised Capacitor
+K Capacitor
+$ENDCMP
+#
+#End Doc Library

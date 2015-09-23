@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GC_003x01_PIN
+D Generic 3 way connector
+K PIN
+$ENDCMP
+#
+$CMP GX_01
+D Generic crystal
+$ENDCMP
+#
+#End Doc Library

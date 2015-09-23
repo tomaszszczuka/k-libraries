@@ -1,0 +1,53 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100K_1206_02_0.5W
+D 100K 1206 1% 0.5W resistor
+K Resistor
+$ENDCMP
+#
+$CMP 110R_1206_01
+D 110R 1206 1% 0.25W resistor
+K Resistor
+$ENDCMP
+#
+$CMP 1K_0402_01
+D 1K 0402 1% resistor
+K Resistor
+$ENDCMP
+#
+$CMP 220R_1206_0.5W_01
+D 110R 1206 1% 0.25W resistor
+K Resistor
+$ENDCMP
+#
+$CMP 56K_1206_0.5W_01
+D 56K 1206 1% 0.5W resistor
+K Resistor
+$ENDCMP
+#
+$CMP GR_0402
+D Generic Resistor
+K Resistor
+$ENDCMP
+#
+$CMP GR_0603
+D Generic Resistor
+K Resistor
+$ENDCMP
+#
+$CMP GR_0805
+D Generic Resistor
+K Resistor
+$ENDCMP
+#
+$CMP GR_1206
+D Generic Resistor
+K Resistor
+$ENDCMP
+#
+$CMP GR_1210
+D Generic Resistor
+K Resistor
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,52 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# EPL2014-472ML
+#
+DEF ~EPL2014-472ML L 0 0 N Y 1 F N
+F0 "L" 100 50 50 V V L CNN
+F1 "EPL2014-472ML" 0 0 50 V I C CNN
+F2 "0C_smc:SM_L_2.2x2.2_01" 0 -50 30 V I C CNN
+F3 "" 80 0 30 V V C CNN
+F4 "4.7uH" 100 -50 50 V V R CNN "AValue"
+F5 "-" 200 50 60 V I L CNN "Build"
+F6 "2.2x2.2mm" 200 -50 50 V I R CNN "Package"
+F7 "Coilcraft" 0 0 50 V I C CNN "Manufacturer"
+F8 "EPL2014-472ML" 0 0 50 V I C CNN "Man Part No"
+F9 "4.7uH" 0 0 60 V I C CNN "Inductance"
+F10 "650mA" 0 0 50 V I C CNN "Current"
+DRAW
+A 0 -75 25 901 -901 0 1 0 N 0 -50 0 -100
+A 0 -25 25 901 -901 0 1 0 N 0 0 0 -50
+A 0 75 25 901 -901 0 1 0 N 0 100 0 50
+A 0 25 25 901 -901 1 1 0 N 0 50 0 0
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# GI_0402
+#
+DEF ~GI_0402 L 0 0 N Y 1 F N
+F0 "L" 100 50 50 V V L CNN
+F1 "GI_0402" 0 0 50 V I C CNN
+F2 "" 0 -50 30 V I C CNN
+F3 "" 80 0 30 V V C CNN
+F4 "AValue" 100 -50 50 V V R CNN "AValue"
+F5 "-" 200 50 50 V V L CNN "Build"
+F6 "Package" 200 -50 50 V I R CNN "Package"
+F7 "Manufacturer" 0 0 50 V I C CNN "Manufacturer"
+F8 "MPN" 0 0 50 V I C CNN "Man Part No"
+F9 "Inductance" 0 0 60 V I C CNN "Inductance"
+F10 "Current" 0 0 50 V I C CNN "Current"
+DRAW
+A 0 -75 25 901 -901 0 1 0 N 0 -50 0 -100
+A 0 -25 25 901 -901 0 1 0 N 0 0 0 -50
+A 0 75 25 901 -901 0 1 0 N 0 100 0 50
+A 0 25 25 901 -901 1 1 0 N 0 50 0 0
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

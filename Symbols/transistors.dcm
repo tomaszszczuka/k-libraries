@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC847B
+D 45V 100mA NPN Transistor
+K Diode
+$ENDCMP
+#
+$CMP G_NPN
+D Generic NPN
+K Diode
+$ENDCMP
+#
+#End Doc Library

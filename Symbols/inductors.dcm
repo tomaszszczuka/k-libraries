@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EPL2014-472ML
+D 4.7uH 2.2 x 2.2 mm
+K Inductor
+$ENDCMP
+#
+$CMP GI_0402
+D Generic Inductor
+K Inductor
+$ENDCMP
+#
+#End Doc Library

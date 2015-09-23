@@ -1,0 +1,57 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# BC847B
+#
+DEF ~BC847B TR 0 0 Y Y 1 F N
+F0 "TR" 150 100 50 H V L CNN
+F1 "BC847B" 0 0 50 V I C CNN
+F2 "0C_smc:SM_SOT23-3_0.95_01" 50 0 30 V I C CNN
+F3 "" 180 0 30 V V C CNN
+F4 "BC847B" 150 0 50 H V L CNN "AValue"
+F5 "-" 150 -100 50 H I L CNN "Build"
+F6 "SOT23" 0 0 50 V I C CNN "Package"
+F7 "NXP" 0 0 50 V I C CNN "Manufacturer"
+F8 "BC847B,215" 0 0 50 V I C CNN "Man Part No"
+F9 "100mA" 0 0 50 V I C CNN "Current"
+F10 "45V" 0 0 60 V I C CNN "Voltage"
+F11 "NPN" 0 0 50 V I C CNN "Type"
+DRAW
+P 2 0 1 0  0 -75  0 75 N
+P 2 0 1 0  0 0  -50 0 N
+P 4 0 1 0  80 -85  65 -55  45 -80  80 -85 F
+P 4 0 1 0  100 100  0 25  0 -25  100 -100 N
+X B 1 -50 0 0 R 30 30 1 1 I
+X E 2 100 -100 0 R 30 30 1 1 E
+X C 3 100 100 0 R 30 30 1 1 C
+ENDDRAW
+ENDDEF
+#
+# G_NPN
+#
+DEF ~G_NPN TR 0 0 Y Y 1 F N
+F0 "TR" 150 100 50 H V L CNN
+F1 "G_NPN" 0 0 50 V I C CNN
+F2 "" 0 0 30 V I C CNN
+F3 "" 180 0 30 V V C CNN
+F4 "AValue" 150 0 50 H V L CNN "AValue"
+F5 "Current" 0 0 50 V I C CNN "Current"
+F6 "Voltage" 0 0 60 V I C CNN "Voltage"
+F7 "Type" 0 0 50 V I C CNN "Type"
+F8 "Manufacturer" 0 0 50 V I C CNN "Manufacturer"
+F9 "MPN" 0 0 50 V I C CNN "Man Part No"
+F10 "Package" 0 0 50 V I C CNN "Package"
+F11 "Height" 0 0 50 V I C CNN "Height"
+F12 "Build" 150 -100 50 H V L CNN "Build"
+DRAW
+P 2 0 1 0  0 -75  0 75 N
+P 2 0 1 0  0 0  -50 0 N
+P 4 0 1 0  80 -85  65 -55  45 -80  80 -85 F
+P 4 0 1 0  100 100  0 25  0 -25  100 -100 N
+X B 1 -50 0 0 R 30 30 1 1 I
+X C 2 100 100 0 R 30 30 1 1 C
+X E 3 100 -100 0 R 30 30 1 1 E
+ENDDRAW
+ENDDEF
+#
+#End Library

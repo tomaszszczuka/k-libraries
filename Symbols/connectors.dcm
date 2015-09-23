@@ -1,0 +1,28 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GC_003x01_PIN
+D Generic 3 way connector
+K PIN
+$ENDCMP
+#
+$CMP GC_004x01_PIN
+D Generic 4 way connector
+K PIN
+$ENDCMP
+#
+$CMP GC_005x01_PIN
+D Generic 5 way connector
+K PIN
+$ENDCMP
+#
+$CMP GC_010x01_PIN
+D Generic 10 way connector
+K PIN
+$ENDCMP
+#
+$CMP GC_PIN
+D Generic Pin
+K PIN
+$ENDCMP
+#
+#End Doc Library

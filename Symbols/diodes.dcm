@@ -1,0 +1,38 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ASMB-MTB1-0A3A2
+D Generic LED
+K Diode
+$ENDCMP
+#
+$CMP BZG03C15TR
+D 15V 3W SMA zener diode
+K Diode
+$ENDCMP
+#
+$CMP GDL
+D Generic LED
+K Diode
+$ENDCMP
+#
+$CMP GDR
+D Generic Diode
+K Diode
+$ENDCMP
+#
+$CMP GDS
+D Generic Diode Schottky
+K Diode
+$ENDCMP
+#
+$CMP GDZ
+D Generic Diode Zener
+K Diode
+$ENDCMP
+#
+$CMP RS1G-E3/61T
+D 400V 1A SMA rectifier diode
+K Diode
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP1640T-I/CHY
+D Synchronous Boost Regulator
+F /home/tom/kicad/Library/Documentation/V/VTX-214-003-105.pd
+$ENDCMP
+#
+$CMP MCP6441T-E/OT
+D Low Iq 9kHz OP-AMP
+F /home/tom/kicad/Library/Documentation/V/VTX-214-003-105.pd
+$ENDCMP
+#
+#End Doc Library

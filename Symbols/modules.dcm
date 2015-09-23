@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP8266_01
+D WiFi module with antena
+$ENDCMP
+#
+$CMP VTX-214-003-105
+D AC/DC Module 90-265 / 5V DC
+K AC/DC
+F /home/tom/kicad/Library/Documentation/V/VTX-214-003-105.pdf
+$ENDCMP
+#
+#End Doc Library

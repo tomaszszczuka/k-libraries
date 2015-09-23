@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GNC_0402
+D Generic Non Polarised Capacitor
+K Capacitor
+$ENDCMP
+#
+$CMP GNC_0603
+D Generic Non Polarised Capacitor
+K Capacitor
+$ENDCMP
+#
+$CMP GNC_0805
+D Generic Non Polarised Capacitor
+K Capacitor
+$ENDCMP
+#
+$CMP GNC_1206
+D Generic Non Polarised Capacitor
+K Capacitor
+$ENDCMP
+#
+#End Doc Library
